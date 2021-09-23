@@ -1,0 +1,7 @@
+com\acme\greeter\systemtest\GreeterResourceClientInstanceTest.class
+com\acme\greeter\fixture\PostgresTestConfig.class
+com\acme\greeter\systemtest\GreeterResourceInContainerDelegateTest.class
+com\acme\greeter\systemtest\GreeterResourceClientInstanceNeedTest.class
+com\acme\greeter\systemtest\GreeterResourceInContainerRealTest.class
+com\acme\greeter\systemtest\GreeterResourceInContainerFakeTest.class
+com\acme\greeter\systemtest\GreeterResourceClientInstanceNeedContainerTest.class

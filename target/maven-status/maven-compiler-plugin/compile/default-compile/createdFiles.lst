@@ -1,0 +1,5 @@
+com\acme\greeter\systemtest\GreeterWebConfig.class
+com\acme\greeter\systemtest\resource\GreeterResource.class
+com\acme\greeter\systemtest\GreeterApplication.class
+com\acme\greeter\systemtest\entity\GreetingEntity.class
+com\acme\greeter\systemtest\service\Greeter.class
